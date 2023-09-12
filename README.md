@@ -17,7 +17,7 @@ Sou apaixonado por lógica e matemática, e tenho o propósito de trabalhar ness
 ### 🎓 Educação
 Técnico em Eletrotécnica - [CEFET-MG](https://www.cefetmg.br/)<br/>
 Desenvolvedor Web Full Stack - [Driven Education](https://www.driven.com.br/)<br/>
-Bacharel em Matemática - [UFMG](https://www.ufmg.com.br/)
+Bacharel em Matemática (em curso) - [UFMG](https://www.ufmg.com.br/)
 
 ### 💻 Principais tecnologias
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
