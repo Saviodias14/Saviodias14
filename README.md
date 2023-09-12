@@ -11,8 +11,8 @@ Atualmente, sou estudante de Matemática Bacharelado na [UFMG](https://www.ufmg.
 Sou apaixonado por lógica e matemática, e tenho o propósito de trabalhar nessa área.
 
 ### 🎓 Educação
-Técnico em Eletrotécnica - [CEFET-MG](https://www.cefetmg.br/)
-Desenvolvedor Web Full Stack - [Driven Education](https://www.driven.com.br/)
+Técnico em Eletrotécnica - [CEFET-MG](https://www.cefetmg.br/)<br/>
+Desenvolvedor Web Full Stack - [Driven Education](https://www.driven.com.br/)<br/>
 Bacharel em Matemática - [UFMG](https://www.ufmg.com.br/)
 
 ### 💻 Principais tecnologias
