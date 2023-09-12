@@ -9,7 +9,8 @@ Olá, meu nome é Savio Dias e essa é minha galeria de códigos.<br/>
 <br/>
 Eu iniciei meinha aventura na programação com a [Driven Education](https://www.driven.com.br/) e ainda estou nesse caminho, estudando e aprendendo novas tecnologias, novos métodos e novas linguagens de preogramação. Me divirto bastante com o que faço e com o que venho aprendendo e gosto de me desafiar e ser desafiado nos meus estudos e nas minhas aplicações.<br/>
 <br/>
-Atualmente, sou estudante de Matemática Bacharelado na [UFMG](https://www.ufmg.com.br/) e busco trabalhar nas áreas de desenvolvimento web ou de desenvolvimento de softwares, com o objetivo de crescer profissionalmente e ingressar de vez na carreira de tecnologia.<br/>
+Atualmente, sou estudante de Matemática Bacharelado na [UFMG](https://www.ufmg.com.br/) e busco trabalhar nas áreas de desenvolvimento web ou de desenvolvimento de softwares, com o objetivo de crescer profissionalmente e ingressar de vez na carreira de tecnologia.
+<br/>
 <br/>
 Sou apaixonado por lógica e matemática, e tenho o propósito de trabalhar nessa área.
 
