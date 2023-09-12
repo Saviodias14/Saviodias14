@@ -1,4 +1,3 @@
-# Saviodias14
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/savio-dias-viana/)](https://www.linkedin.com/in/savio-dias-viana/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat&labelColor=C13584&logo=instagram&logoColor=white&link=https://www.instagram.com/savio_viana14/)](https://www.instagram.com/savio_viana14/)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/savim_viana)
@@ -6,7 +5,15 @@
 
 ## Seja muito bem-vindo(a)!
 
-[Driven Education](https://www.driven.com.br/) 
+Olá, meu nome é Savio Dias e essa é minha galeria de códigos.
+Eu iniciei meinha aventura na programação com a [Driven Education](https://www.driven.com.br/) e ainda estou nesse caminho, estudando e aprendendo novas tecnologias, novos métodos e novas linguagens de preogramação. Me divirto bastante com o que faço e com o que venho aprendendo e gosto de me desafiar e ser desafiado nos meus estudos e nas minhas aplicações.
+Atualmente, sou estudante de Matemática Bacharelado na [UFMG](https://www.ufmg.com.br/) e busco trabalhar nas áreas de desenvolvimento web ou de desenvolvimento de softwares, com o objetivo de crescer profissionalmente e ingressar de vez na carreira de tecnologia.
+Sou apaixonado por lógica e matemática, e tenho o propósito de trabalhar nessa área.
+
+### 🎓 Educação
+Técnico em Eletrotécnica - [CEFET-MG](https://www.cefetmg.br/)
+Desenvolvedor Web Full Stack - [Driven Education](https://www.driven.com.br/)
+Bacharel em Matemática - [UFMG](https://www.ufmg.com.br/)
 
 ### 💻 Principais tecnologias
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
