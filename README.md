@@ -7,7 +7,7 @@
 
 Olá, meu nome é Savio Dias e essa é minha galeria de códigos.<br/>
 <br/>
-Eu iniciei meinha aventura na programação com a [Driven Education](https://www.driven.com.br/) e ainda estou nesse caminho, estudando e aprendendo novas tecnologias, novos métodos e novas linguagens de preogramação. Me divirto bastante com o que faço e com o que venho aprendendo e gosto de me desafiar e ser desafiado nos meus estudos e nas minhas aplicações.<br/>
+Eu iniciei minha aventura na programação com a [Driven Education](https://www.driven.com.br/) e ainda estou nesse caminho, estudando e aprendendo novas tecnologias, novos métodos e novas linguagens de preogramação. Me divirto bastante com o que faço e com o que venho aprendendo e gosto de me desafiar e ser desafiado nos meus estudos e nas minhas aplicações.<br/>
 <br/>
 Atualmente, sou estudante de Matemática Bacharelado na [UFMG](https://www.ufmg.com.br/) e trabalho na área de desenvolvimento na [PxBank](https://www.pxbank.com.br/). Tenho como objetivo aprender novas linguagens e ferramentas para crescer profissionalmente na carreira de tecnologia.
 <br/>
